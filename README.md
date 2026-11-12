@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic LLM for Autonomous Data Analysis and Report Generation
 
 An end-to-end multi-agent AI system that autonomously analyzes uploaded datasets, generates executive insights, creates static & interactive visualizations, provides natural language querying via Pandas execution chains, and exports corporate PDF and DOCX reports without requiring manual analysis.
@@ -140,3 +141,7 @@ npm run dev
 3. **Environment Production Flags**:
    - Set `DATABASE_URL=mysql+pymysql://user:password@host:3306/agentic_analyst`
    - Set `OPENAI_API_KEY` for GPT-4o production inference.
+=======
+# Agentic-LLM-Data-Analyst-Report-Generator
+An Agentic LLM-powered Data Analyst that automates data cleaning, exploratory data analysis, visualization, insight generation, and report creation using intelligent AI agents.
+>>>>>>> origin/main
