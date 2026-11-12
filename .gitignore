@@ -1,0 +1,29 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js and Vite
+**/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local database and generated app data
+*.db
+*.sqlite
+*.sqlite3
+/uploads/*
+!/uploads/.gitkeep
+/reports/*
+!/reports/.gitkeep
+/charts/*
+!/charts/.gitkeep
+
+# Logs
+*.log

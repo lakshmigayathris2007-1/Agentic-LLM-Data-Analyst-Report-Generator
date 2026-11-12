@@ -1,0 +1,131 @@
+Patient_ID,Age,Gender,Diagnosis,Blood_Pressure_Systolic,BMI,Treatment_Cost,Readmitted,Hospital_Stay_Days
+PAT-200,39,Female,Cardiovascular,160,24.7,8614.24,No,9
+PAT-201,47,Female,Hypertension,108,27.0,8416.66,No,3
+PAT-202,61,Male,General Checkup,149,33.6,4807.36,No,2
+PAT-203,49,Male,Asthma,105,30.2,2418.89,Yes,3
+PAT-204,68,Male,Hypertension,159,35.9,5451.09,No,12
+PAT-205,63,Male,General Checkup,143,27.1,2139.83,No,9
+PAT-206,38,Female,Hypertension,110,30.3,10736.12,No,12
+PAT-207,49,Female,Hypertension,165,30.8,4477.59,No,7
+PAT-208,56,Female,Diabetes,146,30.0,2276.29,Yes,9
+PAT-209,29,Male,General Checkup,102,32.2,792.65,No,13
+PAT-210,64,Female,Asthma,129,23.1,7926.96,Yes,2
+PAT-211,35,Male,Diabetes,120,28.5,7824.38,No,5
+PAT-212,38,Male,Hypertension,127,20.5,4416.95,No,13
+PAT-213,30,Male,Hypertension,161,26.0,1324.69,No,4
+PAT-214,38,Male,Hypertension,132,28.0,5210.73,No,2
+PAT-215,25,Male,General Checkup,134,,4079.0,Yes,9
+PAT-216,63,Male,General Checkup,151,37.0,8286.89,No,9
+PAT-217,24,Female,Diabetes,133,30.2,7466.46,No,6
+PAT-218,40,Male,Asthma,140,33.0,4692.83,No,11
+PAT-219,39,Female,Diabetes,150,28.4,3005.76,Yes,6
+PAT-220,39,Female,Cardiovascular,146,30.9,11862.41,No,8
+PAT-221,46,Male,Hypertension,157,19.9,5721.02,No,6
+PAT-222,30,Male,Hypertension,156,23.5,8415.15,No,1
+PAT-223,19,Male,Hypertension,122,25.6,2116.36,No,4
+PAT-224,46,Female,Diabetes,147,27.7,6084.28,No,13
+PAT-225,69,Male,Diabetes,121,19.4,816.67,No,7
+PAT-226,44,Female,Hypertension,116,21.2,6312.73,Yes,13
+PAT-227,67,Male,Diabetes,168,23.9,11586.2,No,13
+PAT-228,40,Male,General Checkup,110,37.4,4918.38,Yes,2
+PAT-229,61,Female,General Checkup,114,25.0,948.45,No,9
+PAT-230,39,Female,Diabetes,134,27.9,855.99,No,8
+PAT-231,60,Male,Hypertension,132,22.3,4961.85,Yes,8
+PAT-232,54,Female,Diabetes,115,30.4,2340.29,No,7
+PAT-233,78,Female,Diabetes,133,24.0,768.55,Yes,4
+PAT-234,73,Female,Diabetes,165,22.5,9196.46,No,2
+PAT-235,20,Female,Cardiovascular,139,28.6,5773.01,No,3
+PAT-236,80,Female,General Checkup,127,18.6,3826.31,Yes,12
+PAT-237,36,Male,Asthma,146,18.6,10850.96,No,6
+PAT-238,40,Male,Asthma,138,22.8,1835.6,No,12
+PAT-239,46,Female,Cardiovascular,169,19.2,11493.07,No,12
+PAT-240,47,Male,Diabetes,119,20.6,4110.62,Yes,5
+PAT-241,56,Male,Cardiovascular,100,25.1,10716.64,No,12
+PAT-242,42,Female,Cardiovascular,162,34.2,7433.84,No,8
+PAT-243,25,Male,Hypertension,166,29.7,10007.13,No,6
+PAT-244,75,Female,General Checkup,103,28.5,11816.15,Yes,6
+PAT-245,33,Female,Asthma,157,24.2,3816.66,Yes,1
+PAT-246,18,Male,Diabetes,124,36.7,11553.06,No,4
+PAT-247,22,Female,Asthma,146,26.2,4979.04,No,5
+PAT-248,20,Female,Asthma,137,20.2,4933.39,No,12
+PAT-249,82,Female,General Checkup,114,30.5,4414.45,No,11
+PAT-250,21,Female,Asthma,162,20.7,6726.19,No,3
+PAT-251,81,Female,Asthma,120,25.2,2272.67,No,13
+PAT-252,27,Male,Cardiovascular,156,28.4,6867.68,No,9
+PAT-253,38,Male,General Checkup,152,35.5,6729.61,No,1
+PAT-254,63,Female,Hypertension,145,28.1,9261.87,No,6
+PAT-255,44,Female,Diabetes,113,32.2,10086.97,No,6
+PAT-256,83,Male,Asthma,116,37.9,5565.08,No,10
+PAT-257,58,Female,Diabetes,138,21.1,3976.83,No,5
+PAT-258,30,Male,Hypertension,108,23.9,3482.35,No,12
+PAT-259,26,Female,Diabetes,105,26.2,2738.17,No,5
+PAT-260,53,Female,Hypertension,122,26.7,1162.95,No,10
+PAT-261,75,Female,Cardiovascular,158,26.5,4438.15,No,13
+PAT-262,71,Female,Asthma,145,36.2,3607.85,Yes,5
+PAT-263,29,Female,Hypertension,137,32.4,11613.8,No,6
+PAT-264,31,Female,Diabetes,113,30.4,6913.65,No,8
+PAT-265,51,Female,Asthma,161,24.5,4493.69,No,2
+PAT-266,70,Male,Cardiovascular,134,34.6,7175.38,No,6
+PAT-267,37,Male,Asthma,118,37.1,2100.76,No,1
+PAT-268,33,Male,Hypertension,129,34.5,5606.5,Yes,4
+PAT-269,73,Female,Cardiovascular,124,18.5,7701.69,No,10
+PAT-270,75,Female,Diabetes,139,30.9,6122.33,No,3
+PAT-271,21,Female,Cardiovascular,113,19.5,5120.46,No,9
+PAT-272,21,Female,Cardiovascular,125,23.5,11929.26,No,3
+PAT-273,37,Female,General Checkup,121,19.7,10623.62,No,6
+PAT-274,27,Female,Cardiovascular,147,30.3,7669.17,No,1
+PAT-275,41,Female,Cardiovascular,150,31.9,7047.84,No,12
+PAT-276,43,Male,Asthma,102,20.7,7637.6,Yes,6
+PAT-277,54,Female,Diabetes,141,26.0,2815.09,No,4
+PAT-278,71,Male,Asthma,118,27.4,5044.08,No,8
+PAT-279,38,Male,Asthma,127,25.7,953.78,No,13
+PAT-280,55,Female,Hypertension,144,20.9,5968.78,No,11
+PAT-281,63,Female,Asthma,162,26.7,6744.78,Yes,9
+PAT-282,21,Male,General Checkup,118,33.1,3119.12,No,4
+PAT-283,77,Male,General Checkup,146,19.9,11586.33,Yes,10
+PAT-284,74,Female,Hypertension,113,20.1,10958.73,No,12
+PAT-285,62,Female,Diabetes,137,25.4,8804.65,No,10
+PAT-286,37,Male,Diabetes,152,36.9,6633.95,Yes,6
+PAT-287,34,Female,Asthma,160,31.5,10504.65,No,1
+PAT-288,21,Female,Asthma,135,31.7,2002.5,Yes,4
+PAT-289,31,Female,Asthma,139,25.6,9590.86,No,7
+PAT-290,20,Male,Diabetes,129,30.1,1935.44,No,12
+PAT-291,75,Male,Cardiovascular,108,18.7,9633.42,Yes,1
+PAT-292,72,Male,General Checkup,163,30.9,3671.33,No,8
+PAT-293,21,Female,Cardiovascular,132,36.3,10586.54,Yes,12
+PAT-294,41,Female,Cardiovascular,151,30.4,11356.48,No,10
+PAT-295,51,Male,Diabetes,113,35.5,2211.15,No,12
+PAT-296,47,Male,Cardiovascular,152,32.6,5820.77,No,11
+PAT-297,36,Male,Hypertension,158,20.9,11781.35,Yes,6
+PAT-298,48,Female,Asthma,140,36.1,6059.19,No,5
+PAT-299,77,Male,Hypertension,167,19.8,10430.8,No,10
+PAT-300,77,Male,General Checkup,167,28.9,7270.41,No,11
+PAT-301,36,Female,Asthma,107,21.3,4816.29,No,9
+PAT-302,66,Female,Cardiovascular,101,18.7,3786.51,No,2
+PAT-303,80,Female,General Checkup,140,26.7,2837.07,No,5
+PAT-304,39,Male,Asthma,154,24.3,9260.68,No,6
+PAT-305,41,Female,Cardiovascular,115,28.0,4945.22,No,7
+PAT-306,47,Female,Hypertension,161,29.8,6379.67,No,5
+PAT-307,75,Male,Asthma,147,19.4,6161.74,No,9
+PAT-308,48,Female,Cardiovascular,129,20.9,7138.71,Yes,1
+PAT-309,81,Male,Hypertension,111,29.4,10454.14,No,7
+PAT-310,36,Male,General Checkup,134,25.2,11778.5,No,10
+PAT-311,65,Female,General Checkup,110,32.7,5187.22,No,7
+PAT-312,62,Female,General Checkup,163,31.2,10016.47,No,4
+PAT-313,72,Female,General Checkup,149,35.0,9292.07,No,9
+PAT-314,72,Female,Diabetes,120,32.0,7095.58,Yes,12
+PAT-315,35,Female,Asthma,168,26.9,11494.54,Yes,11
+PAT-316,80,Female,Asthma,147,31.6,2805.46,No,5
+PAT-317,64,Male,Diabetes,119,23.9,1756.54,No,4
+PAT-318,74,Male,Cardiovascular,166,24.5,10320.56,No,13
+PAT-319,62,Female,Cardiovascular,143,33.9,5550.22,No,7
+PAT-320,50,Male,General Checkup,132,27.2,10240.14,No,4
+PAT-321,34,Female,Hypertension,160,34.1,10770.54,No,3
+PAT-322,21,Male,Cardiovascular,108,34.5,1218.26,No,9
+PAT-323,37,Male,Hypertension,167,35.2,10659.84,Yes,11
+PAT-324,64,Male,Asthma,134,36.4,5655.67,No,8
+PAT-325,32,Female,Hypertension,164,26.9,6369.97,No,1
+PAT-326,64,Male,Asthma,107,24.7,7705.81,Yes,7
+PAT-327,26,Female,Diabetes,144,29.9,11153.4,No,9
+PAT-328,33,Male,Diabetes,146,25.7,719.84,No,8
+PAT-329,78,Male,General Checkup,139,30.2,5983.7,No,8

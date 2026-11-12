@@ -1,0 +1,151 @@
+Order_ID,Category,Region,Customer_Segment,Sales_Revenue,Profit,Discount_Pct,Quantity_Ordered,Delivery_Days,Customer_Rating
+ORD-1000,Books,North America,Home Office,224.76,98.61,0.19,10,6,3.1
+ORD-1001,Beauty,Asia-Pacific,Corporate,216.46,145.5,0.19,4,2,3.5
+ORD-1002,Home & Kitchen,Europe,Consumer,1454.91,64.16,0.12,13,5,3.2
+ORD-1003,Beauty,North America,Home Office,1077.6,132.34,0.31,1,1,3.4
+ORD-1004,Beauty,North America,Consumer,80.78,207.16,0.05,4,7,4.3
+ORD-1005,Fashion,North America,Corporate,610.25,283.44,0.12,14,1,3.2
+ORD-1006,Home & Kitchen,Asia-Pacific,Corporate,661.61,295.24,0.11,7,4,3.9
+ORD-1007,Home & Kitchen,Europe,Home Office,1121.18,320.26,0.03,11,9,3.7
+ORD-1008,Home & Kitchen,North America,Corporate,391.27,284.9,0.17,4,1,4.2
+ORD-1009,Beauty,Latin America,Consumer,292.81,256.47,0.24,13,4,4.8
+ORD-1010,Books,North America,Home Office,139.69,56.88,0.18,6,6,4.3
+ORD-1011,Home & Kitchen,North America,Consumer,653.91,130.1,0.05,9,6,3.0
+ORD-1012,Beauty,Asia-Pacific,Consumer,1038.98,,0.13,1,8,2.6
+ORD-1013,Fashion,Asia-Pacific,Corporate,106.13,-12.7,0.0,13,1,3.2
+ORD-1014,Books,Europe,Corporate,1374.52,187.77,0.3,5,7,4.0
+ORD-1015,Fashion,Latin America,Corporate,674.68,146.35,0.03,11,1,2.6
+ORD-1016,Books,Asia-Pacific,Corporate,374.89,310.95,0.21,7,7,3.7
+ORD-1017,Beauty,North America,Corporate,158.93,390.06,0.35,1,3,4.0
+ORD-1018,Electronics,Europe,Home Office,290.64,200.2,0.19,14,8,3.3
+ORD-1019,Books,North America,Consumer,1403.23,95.21,0.32,4,3,4.4
+ORD-1020,Fashion,North America,Consumer,964.64,-30.47,0.08,6,1,2.8
+ORD-1021,Beauty,Asia-Pacific,Consumer,784.71,366.09,0.27,2,8,2.7
+ORD-1022,Books,Europe,Consumer,992.52,363.6,0.19,10,3,4.3
+ORD-1023,Electronics,Latin America,Corporate,664.8,63.85,0.25,5,2,3.7
+ORD-1024,Electronics,Latin America,Consumer,1100.46,262.94,0.02,11,1,4.2
+ORD-1025,Home & Kitchen,Asia-Pacific,Home Office,90.62,-16.05,0.05,10,3,
+ORD-1026,Home & Kitchen,Asia-Pacific,Home Office,857.74,24.8,0.05,1,2,3.1
+ORD-1027,Fashion,Europe,Consumer,254.8,47.56,0.24,6,2,4.5
+ORD-1028,Books,Latin America,Consumer,197.84,82.52,0.3,6,6,4.5
+ORD-1029,Books,Latin America,Home Office,525.98,398.12,0.26,13,1,4.2
+ORD-1030,Home & Kitchen,Latin America,Home Office,155.86,263.62,0.01,4,2,3.2
+ORD-1031,Books,North America,Corporate,159.35,122.89,0.3,13,6,4.0
+ORD-1032,Books,Latin America,Home Office,480.89,281.7,0.12,8,3,3.4
+ORD-1033,Electronics,North America,Corporate,1469.68,361.86,0.14,4,4,2.7
+ORD-1034,Home & Kitchen,Europe,Corporate,279.49,381.42,0.04,8,1,4.8
+ORD-1035,Beauty,North America,Corporate,45.4,-23.96,0.26,13,8,2.8
+ORD-1036,Home & Kitchen,Europe,Corporate,1149.78,127.53,0.06,8,7,4.9
+ORD-1037,Beauty,Latin America,Corporate,1214.23,-1.96,0.2,5,7,3.6
+ORD-1038,Electronics,Latin America,Consumer,532.53,101.05,0.29,13,3,3.0
+ORD-1039,Fashion,Europe,Home Office,707.72,26.36,0.03,4,3,3.9
+ORD-1040,Books,Asia-Pacific,Corporate,981.67,241.08,0.19,12,2,4.7
+ORD-1041,Electronics,Europe,Home Office,91.13,124.72,0.08,13,1,4.3
+ORD-1042,Books,Asia-Pacific,Home Office,1424.74,53.23,0.12,2,7,4.5
+ORD-1043,Fashion,North America,Corporate,1332.29,69.67,0.17,11,7,4.1
+ORD-1044,Fashion,North America,Consumer,406.12,112.16,0.12,3,2,4.2
+ORD-1045,Electronics,North America,Corporate,42.65,66.98,0.23,3,7,4.6
+ORD-1046,Fashion,Latin America,Consumer,1401.49,153.96,0.17,4,8,3.1
+ORD-1047,Beauty,North America,Home Office,761.54,-35.46,0.2,4,1,3.7
+ORD-1048,Fashion,Asia-Pacific,Consumer,818.28,75.89,0.26,10,9,3.1
+ORD-1049,Books,North America,Consumer,1032.27,135.04,0.2,11,7,5.0
+ORD-1050,Books,Europe,Consumer,931.46,221.25,0.21,11,3,4.9
+ORD-1051,Books,Europe,Home Office,1416.96,71.93,0.2,5,8,2.6
+ORD-1052,Books,Latin America,Home Office,1417.49,9.93,0.13,4,7,4.3
+ORD-1053,Beauty,Europe,Consumer,1303.45,-15.71,0.12,11,8,4.8
+ORD-1054,Home & Kitchen,Asia-Pacific,Consumer,961.88,373.24,0.31,14,6,3.0
+ORD-1055,Electronics,North America,Corporate,1205.4,137.49,0.21,10,9,3.9
+ORD-1056,Books,Latin America,Consumer,1022.21,211.52,0.09,8,5,4.8
+ORD-1057,Fashion,North America,Corporate,868.58,363.63,0.17,6,3,2.6
+ORD-1058,Books,North America,Consumer,210.18,-12.76,0.12,6,3,4.2
+ORD-1059,Fashion,Asia-Pacific,Corporate,1220.58,344.5,0.33,8,1,3.2
+ORD-1060,Fashion,Europe,Home Office,1234.55,198.21,0.0,7,8,4.8
+ORD-1061,Books,Europe,Consumer,946.39,24.18,0.08,10,2,4.9
+ORD-1062,Beauty,North America,Consumer,1234.23,135.06,0.13,14,3,4.9
+ORD-1063,Fashion,Latin America,Consumer,984.2,299.92,0.17,11,8,3.7
+ORD-1064,Fashion,Europe,Consumer,325.89,166.17,0.3,12,8,4.7
+ORD-1065,Books,Latin America,Corporate,425.46,393.38,0.03,10,4,4.6
+ORD-1066,Fashion,Europe,Consumer,337.59,119.53,0.28,13,4,3.3
+ORD-1067,Fashion,Latin America,Home Office,578.34,287.31,0.02,8,5,4.6
+ORD-1068,Books,Asia-Pacific,Home Office,77.67,126.85,0.29,14,6,2.6
+ORD-1069,Books,Latin America,Consumer,935.02,323.12,0.02,2,5,4.0
+ORD-1070,Electronics,Asia-Pacific,Home Office,518.1,206.09,0.01,9,7,3.1
+ORD-1071,Beauty,Asia-Pacific,Consumer,990.47,-21.42,0.24,1,2,2.8
+ORD-1072,Beauty,Latin America,Consumer,590.39,-33.43,0.35,8,7,2.7
+ORD-1073,Fashion,Asia-Pacific,Home Office,1028.79,10.23,0.31,12,7,4.2
+ORD-1074,Beauty,North America,Consumer,524.12,-43.85,0.2,11,1,3.3
+ORD-1075,Fashion,Asia-Pacific,Home Office,405.83,-16.09,0.32,12,7,4.3
+ORD-1076,Electronics,Europe,Corporate,754.14,261.27,0.0,12,5,2.7
+ORD-1077,Books,Latin America,Consumer,1045.48,190.46,0.34,4,3,3.3
+ORD-1078,Books,North America,Corporate,535.54,287.46,0.17,4,3,3.8
+ORD-1079,Books,Latin America,Home Office,1406.24,360.92,0.25,5,4,4.5
+ORD-1080,Beauty,Europe,Corporate,78.0,213.32,0.29,8,2,3.3
+ORD-1081,Electronics,Europe,Corporate,638.56,276.75,0.25,5,2,4.1
+ORD-1082,Beauty,Europe,Home Office,1452.02,290.69,0.19,8,1,4.7
+ORD-1083,Beauty,Asia-Pacific,Corporate,831.0,120.03,0.17,10,5,4.0
+ORD-1084,Electronics,Asia-Pacific,Corporate,646.74,58.49,0.29,1,4,3.1
+ORD-1085,Electronics,Latin America,Home Office,861.41,42.27,0.07,12,2,2.6
+ORD-1086,Electronics,Latin America,Corporate,872.37,63.15,0.34,10,3,4.7
+ORD-1087,Electronics,North America,Home Office,1102.84,73.63,0.25,9,7,2.6
+ORD-1088,Books,North America,Corporate,208.98,43.25,0.07,6,7,4.7
+ORD-1089,Home & Kitchen,Latin America,Home Office,390.02,345.2,0.26,3,4,3.8
+ORD-1090,Home & Kitchen,Asia-Pacific,Home Office,879.21,290.65,0.19,13,5,4.8
+ORD-1091,Electronics,Europe,Corporate,1303.33,-28.9,0.25,14,5,4.5
+ORD-1092,Home & Kitchen,Latin America,Corporate,851.56,70.9,0.27,8,6,5.0
+ORD-1093,Home & Kitchen,North America,Corporate,373.12,-40.02,0.03,9,9,3.4
+ORD-1094,Electronics,Asia-Pacific,Consumer,1026.17,174.17,0.18,6,2,4.4
+ORD-1095,Home & Kitchen,Latin America,Consumer,1115.06,164.29,0.33,11,5,3.5
+ORD-1096,Beauty,Latin America,Consumer,372.59,324.12,0.11,7,3,3.7
+ORD-1097,Fashion,Asia-Pacific,Home Office,579.04,88.5,0.21,1,4,4.1
+ORD-1098,Fashion,Latin America,Corporate,810.8,317.37,0.13,14,6,4.7
+ORD-1099,Electronics,Asia-Pacific,Home Office,754.91,385.59,0.16,5,8,5.0
+ORD-1100,Books,Europe,Consumer,596.63,-10.22,0.19,5,1,4.4
+ORD-1101,Electronics,Asia-Pacific,Corporate,460.5,306.32,0.19,10,8,3.5
+ORD-1102,Books,Asia-Pacific,Home Office,167.98,215.48,0.07,14,7,3.6
+ORD-1103,Fashion,Asia-Pacific,Corporate,99.16,166.02,0.24,4,1,4.3
+ORD-1104,Electronics,Latin America,Home Office,1438.64,139.24,0.03,6,2,3.1
+ORD-1105,Beauty,Latin America,Corporate,1273.77,303.1,0.05,7,3,2.8
+ORD-1106,Home & Kitchen,Asia-Pacific,Consumer,545.26,237.71,0.0,9,1,3.4
+ORD-1107,Books,Latin America,Consumer,1436.07,312.27,0.04,1,9,3.2
+ORD-1108,Home & Kitchen,North America,Corporate,1021.62,356.42,0.17,6,8,3.2
+ORD-1109,Home & Kitchen,North America,Home Office,734.13,227.77,0.21,7,2,3.1
+ORD-1110,Electronics,Latin America,Consumer,749.68,391.21,0.28,3,9,2.6
+ORD-1111,Home & Kitchen,Latin America,Consumer,143.26,223.64,0.04,8,7,2.5
+ORD-1112,Beauty,Asia-Pacific,Consumer,155.72,236.49,0.3,5,9,5.0
+ORD-1113,Home & Kitchen,Europe,Corporate,911.61,199.67,0.26,9,6,3.6
+ORD-1114,Electronics,Latin America,Corporate,839.48,-9.05,0.14,5,6,3.5
+ORD-1115,Beauty,North America,Home Office,334.84,276.88,0.33,9,4,4.2
+ORD-1116,Fashion,Asia-Pacific,Home Office,1420.37,196.35,0.35,10,2,3.0
+ORD-1117,Home & Kitchen,Latin America,Home Office,1176.32,152.91,0.07,4,7,4.9
+ORD-1118,Electronics,North America,Corporate,187.93,359.71,0.13,9,5,4.5
+ORD-1119,Fashion,North America,Corporate,1397.78,84.08,0.32,5,6,2.7
+ORD-1120,Fashion,Europe,Home Office,1461.89,185.62,0.25,10,2,3.5
+ORD-1121,Books,Asia-Pacific,Home Office,1493.98,263.94,0.02,9,5,4.7
+ORD-1122,Beauty,Asia-Pacific,Corporate,102.69,308.41,0.27,3,4,4.9
+ORD-1123,Home & Kitchen,Europe,Home Office,1110.81,156.71,0.29,4,9,3.7
+ORD-1124,Electronics,Europe,Consumer,827.96,328.94,0.26,9,6,4.0
+ORD-1125,Books,Asia-Pacific,Corporate,1064.63,296.01,0.28,10,2,2.9
+ORD-1126,Beauty,Asia-Pacific,Home Office,1453.6,-20.19,0.29,11,1,5.0
+ORD-1127,Books,Latin America,Corporate,1038.28,-29.36,0.07,6,5,3.1
+ORD-1128,Beauty,Latin America,Consumer,1258.71,229.36,0.08,2,9,4.9
+ORD-1129,Beauty,Europe,Corporate,1302.97,106.34,0.22,7,6,4.1
+ORD-1130,Home & Kitchen,Latin America,Corporate,1260.95,44.11,0.32,2,7,4.0
+ORD-1131,Beauty,North America,Corporate,650.62,210.84,0.11,11,5,3.8
+ORD-1132,Books,Latin America,Corporate,349.41,103.7,0.21,2,6,3.1
+ORD-1133,Beauty,Latin America,Consumer,607.04,191.77,0.24,11,5,2.9
+ORD-1134,Home & Kitchen,North America,Corporate,1340.01,157.05,0.16,1,9,3.1
+ORD-1135,Home & Kitchen,Europe,Corporate,236.98,213.14,0.25,11,6,3.0
+ORD-1136,Books,North America,Home Office,779.72,130.14,0.31,11,8,4.4
+ORD-1137,Fashion,Latin America,Corporate,365.18,263.95,0.22,12,2,3.4
+ORD-1138,Fashion,Europe,Home Office,880.33,31.03,0.19,11,9,2.6
+ORD-1139,Beauty,Latin America,Consumer,1297.45,263.43,0.15,3,5,4.9
+ORD-1140,Electronics,North America,Consumer,1322.93,135.25,0.2,6,7,4.7
+ORD-1141,Beauty,North America,Consumer,370.29,343.44,0.12,8,1,4.8
+ORD-1142,Books,Latin America,Consumer,1363.39,181.86,0.14,9,5,5.0
+ORD-1143,Books,Asia-Pacific,Home Office,896.0,387.9,0.19,7,2,2.9
+ORD-1144,Books,Asia-Pacific,Corporate,538.32,220.87,0.02,4,6,3.5
+ORD-1145,Books,North America,Consumer,1068.11,50.73,0.08,6,1,4.4
+ORD-1146,Books,North America,Corporate,732.87,319.81,0.19,5,3,4.2
+ORD-1147,Home & Kitchen,Asia-Pacific,Home Office,579.42,105.29,0.15,8,5,2.9
+ORD-1148,Fashion,Asia-Pacific,Home Office,1063.52,106.43,0.12,1,4,4.5
+ORD-1149,Books,Latin America,Home Office,388.11,-35.69,0.26,1,3,3.1
